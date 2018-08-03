@@ -10,7 +10,7 @@ include Tree
 include Route
 include Util
 
-PATH_TO_INPUT_FILE = '/Users/development/Downloads/input.txt'
+PATH_TO_INPUT_FILE = './input.txt'
 
 # Read data from models file.
 conveyors_data, departures_data, bags_data = get_file_sections PATH_TO_INPUT_FILE
