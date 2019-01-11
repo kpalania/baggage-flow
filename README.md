@@ -1,7 +1,5 @@
 # Airport Baggage
 
-NOTE: I can create an equivalent version of this in either Java or JavaScript (Node/Express) but I am doing some Ruby work currently and it was easier to write this in Ruby rather than switch environments to Eclipse, etc. Having said that, I am happy to solve one of the other 2 problems in either one of those languages :)
-
 To run this solution, you just have to have Ruby installed.
 
 `$ls`
